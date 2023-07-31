@@ -82,7 +82,7 @@ Players are users who collect NFTs using the MapX app
 ### Architecture
 <img src='./screenshot/arch.jpg' />
 
-### Why CELO
+### Why XRPL
 <img src='./screenshot/logo.jpg' />
 
 1. Public and Decentralized Structure : Open source, open to anyone to build on, maintained by the community.
